@@ -1,3 +1,4 @@
+Solo class project #1
 Created: Fall 2022
 
 Gameplay video walk-through: 
